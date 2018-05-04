@@ -1,0 +1,95 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+a{
+	text-decoration: none;
+}
+.wrapper{
+	width: 100%;
+	height: auto;
+	top:  0;
+	left: 0;
+	position: absolute;
+}
+.baslik{
+	width: 100%;
+	height: 55px;
+	background-color: #4c4544;   
+	font-family:Arial;
+}
+.baslik a{	
+	color: white;
+	font-size: 20px;	
+}
+.baslikWrap1{	
+	float: left;
+	margin: 20px 50px 0 100px;
+    font-size: 17;
+}
+.baslikWrap2{
+	width: auto;
+	height: auto;
+	float: right;
+    margin: 20px 100px 0 0;
+}
+.baslikWrap3{	
+	float: left;
+	margin: 0 15px 0 0;
+}
+.baslikyazitip{
+	color: #cccac9;
+	font-size: 15px;
+}
+
+.aciklama{
+	width: 100%;
+	height: auto;
+	font-family:Arial;
+
+}
+.dersler{
+	width: 100%;
+	height: auto;
+	margin: 40px auto;
+	
+}
+.son{	
+
+	width:100%;
+	height:75px;
+	background-color:#4c4544; 
+	color: white;
+	text-align: center;
+	float: left;
+	padding: 23px 0 0 0;
+}
+
+.ustaciklama{
+   width: 1000px;
+   height: 30px;
+   margin: 10px auto 15px auto;
+   font-size: 33px;
+}
+.altaciklama{
+ 	width: 1000px;
+ 	margin: 10px auto;
+ 	font-size: 15px;
+}
+.dersler_wrap{
+	width: 1250px;
+	height: auto;
+	margin: 0 0 0 150px;
+
+}
+.dersWrap{
+	width: 200px;
+	height: 200px;	
+	float: left;
+	margin: 0 120px 80px 50px ;
+	text-align: center;
+    
+}
+.goruntu{
+	border-radius: 100px;
+}
