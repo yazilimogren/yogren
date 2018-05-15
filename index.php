@@ -1,8 +1,8 @@
-<?php 
+<?php
 
-include 'include/baslik.php';
-include 'include/orta.php';
-include 'include/alt.php';
+include("baslik.php");
+include("orta.php");
+include("alt.php");
 
 
- ?>
+?>
